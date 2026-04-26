@@ -116,7 +116,7 @@ I work across the full backend stack: Java microservices, PostgreSQL, Kafka, Ope
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiroy96)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@royabhishek967)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-6B7280?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhiroy96.github.io-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://abhiroy96.github.io)
 
 </div>
 
